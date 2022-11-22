@@ -1,2 +1,2 @@
 # MyCoding
-Coding outside QA&amp;Testing
+Coding JAVA outside QA&amp;Testing
